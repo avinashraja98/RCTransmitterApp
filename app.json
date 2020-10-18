@@ -1,0 +1,12 @@
+{
+  "name": "RCTransmitter",
+  "displayName": "RCTransmitter",
+  "expo": {
+    "name": "RCTransmitter",
+    "slug": "RCTransmitter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
