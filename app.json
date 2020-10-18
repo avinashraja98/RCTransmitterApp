@@ -5,6 +5,7 @@
     "name": "RCTransmitter",
     "slug": "RCTransmitter",
     "version": "1.0.0",
+    "orientation": "landscape",
     "assetBundlePatterns": [
       "**/*"
     ]
